@@ -13,5 +13,4 @@ A classic two-player **Chess Game** built using **Java** for the game logic and 
 - **Language**: Java (JDK 17+)
 - **UI**: Java Swing
 
-#[Chess Game UI]
-(screenshot/Screenshot(57).png)
+[Chess Game UI](screenshot/Screenshot(57).png)
